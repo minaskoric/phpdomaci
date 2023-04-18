@@ -17,7 +17,7 @@ class VrstaMuzike{
       $vm->vrsta = $red->vrsta;
       $niz[] = $vm;
     }
- 
+
     return $niz;
   }
 

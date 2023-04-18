@@ -3,7 +3,6 @@ include 'upravljenjeGreskama.php';
 include 'konekcija.php';
 include 'VrstaMuzike.php';
 
-//include
 $nizVrstiMuzike = VrstaMuzike::vratiVrste($konekcija);
 ?>
 <!DOCTYPE html>
